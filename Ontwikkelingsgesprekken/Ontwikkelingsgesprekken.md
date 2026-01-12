@@ -137,9 +137,9 @@ Op vlak van soft skills heb ik ook veel geleerd. Ik heb geleerd om samen te werk
 
 Als feedback heb ik vaak gekregen dat ik een stille student ben maar technisch heel sterk. Bij opdrachten die fysieke aanwezigheid vereisen ben ik nog oncomfortabel of heb uitstelgedrag. Ik heb bij taken die meer soft skills vragen nog aansturing nodig om deze correct uit te voeren, en zelfs dan verlopen deze nog niet heel spontaan. Bij onderzoek van de implementatie van Copilot heb ik een sterke technische basis gemaakt, misschien te technisch, want ik kreeg de feedback dat ik een meer user-friendly document moest maken dat meer paste bij de organisatie. 
 
-[OnStage Planningsgesprek](WPL3-PG_HermansMante.pdf)
+[OnStage Planningsgesprek](./WPL3-PG_HermansMante.pdf)
 
-[OnStage Functioneringsgesprek](WPL3-FG_HermansMante.pdf)
+[OnStage Functioneringsgesprek](./WPL3-FG_HermansMante.pdf)
 
-[OnStage Evalutiegesprek](WPL3-EG_HermansMante.pdf)
+[OnStage Evalutiegesprek](./WPL3-EG_HermansMante.pdf)
 
