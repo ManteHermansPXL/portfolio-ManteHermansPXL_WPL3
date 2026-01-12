@@ -73,7 +73,7 @@ Installatie en implementatie FOG-imaging solution. Deze is geinstalleerd op een 
 
 ## Opdrachten WPL3
 
-[Voorbereiding Planningsgesprek](Voorbereiding+planningsgesprek+Mante_Hermans.pdf)
+[Voorbereiding Planningsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/#/./Opdrachten/Opdrachten?id=opdrachten-wpl3/Voorbereiding+planningsgesprek+Mante_Hermans.pdf)
 
 [Pitch](WPL3_Intervisie_Pitch_Hermans_Mante.pdf)
 
