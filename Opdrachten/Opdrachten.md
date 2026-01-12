@@ -73,12 +73,12 @@ Installatie en implementatie FOG-imaging solution. Deze is geinstalleerd op een 
 
 ## Opdrachten WPL3
 
-[Voorbereiding Planningsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/#/./Opdrachten/Opdrachten?id=opdrachten-wpl3/Voorbereiding+planningsgesprek+Mante_Hermans.pdf)
+[Voorbereiding Planningsgesprek](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/Voorbereiding+planningsgesprek+Mante_Hermans.pdf)
 
-[Pitch](WPL3_Intervisie_Pitch_Hermans_Mante.pdf)
+[Pitch](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/WPL3_Intervisie_Pitch_Hermans_Mante.pdf)
 
-[Probleemsituatie](ProbleemsituatieWPL32SNEaHermansMante.pdf)
+[Probleemsituatie](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/ProbleemsituatieWPL32SNEaHermansMante.pdf)
 
-[Probleemsituatie Naverwerking](ProbleemsituatieWPL32SNEaHermansMante_Naverwerking.pdf)
+[Probleemsituatie Naverwerking](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/ProbleemsituatieWPL32SNEaHermansMante_Naverwerking.pdf)
 
-[Werkkwaliteiten](WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_HermansMante_24.pdf)
+[Werkkwaliteiten](https://mantehermanspxl.github.io/portfolio-ManteHermansPXL_WPL3/Opdrachten/WPL3-SNE_Intervisie_Leerdoelen_Werkkwaliteiten_HermansMante_24.pdf)
